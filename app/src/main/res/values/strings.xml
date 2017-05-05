@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AlertMe</string>
+    <string name="action_settings">Settings</string>
+    <string name="emergency">Emergency</string>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "502745948622",
+    "firebase_url": "https://alertme-7964b.firebaseio.com",
+    "project_id": "alertme-7964b",
+    "storage_bucket": "alertme-7964b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:502745948622:android:1fcb3b18c6db32ab",
+        "android_client_info": {
+          "package_name": "com.tech42labs.alertme"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "502745948622-6cl4ltpudrk0b3f7coeucpkuc487ll2k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tech42labs.alertme",
+            "certificate_hash": "0a5af7355445eb0ee83a27cede87be7b9b8c630e"
+          }
+        },
+        {
+          "client_id": "502745948622-84d0hogmfs982iqlllc50bko4bcs77sq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzhGrWZOuZ2z9DMaMSzUuuw1JYYaRkMfE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "502745948622-84d0hogmfs982iqlllc50bko4bcs77sq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
