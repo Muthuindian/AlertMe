@@ -6,11 +6,12 @@ android {
     buildToolsVersion "25.0.2"
     defaultConfig {
         applicationId "com.tech42labs.alertme"
-        minSdkVersion 14
+        minSdkVersion 15
         targetSdkVersion 25
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+        multiDexEnabled true
     }
     buildTypes {
         release {
@@ -35,6 +36,8 @@ dependencies {
     testCompile 'junit:junit:4.12'
     annotationProcessor 'com.google.dagger:dagger-compiler:2.9'
     compile 'com.google.android.gms:play-services:10.2.4'
+    compile 'com.github.safetysystemtechnology:location-tracker-background:v1.0'
+    compile 'com.github.krtkush:LinearTimer:v2.1.1'
 }
 
 apply plugin: 'com.google.gms.google-services'
